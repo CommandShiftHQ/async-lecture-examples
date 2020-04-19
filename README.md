@@ -9,5 +9,5 @@ Clone and `npm install`
 Examples can be run from the command line by doing:
 
 ```
-node example-1.js`
+node example-1.js
 ```
