@@ -9,12 +9,13 @@ Clone and `npm install`
 Examples can be run from the command line by doing:
 
 ```
-node example-1.js
+node src/lecture-1/1-synchronous.js
 ```
 
-Lecture 1 examples are labelled 1-7 and referenced in the slides
+Lecture 1 examples live in `src/lecture-1` and referenced in the slides
 
-Lecture 2 examples are labelled with example- and referenced in the slides
+Lecture 2 examples live in `src/lecture-2` and referenced in the slides
 
 ## Requirements
-Written using `node@v10.15.1`. Cannot garantee `async/await` (example 5 and 6) will work in previous versions of node.
+
+Written using `node@v10.15.1`. Cannot garantee `async/await` (`readFilesAsyncAwait` and `fetchAsyncAwait`) will work in previous versions of node.
