@@ -1,4 +1,4 @@
-# async-lecture-examples
+# Async Lecture Examples
 
 This material accompanies the **Working with asynchronous Javascript** lecture.
 
